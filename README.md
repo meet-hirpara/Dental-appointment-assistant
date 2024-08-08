@@ -21,6 +21,6 @@ This project is a basic AI assistant for booking dental appointments using Pytho
    cd dental-appointment-assistant
 
 2. **run bot**
-3. ```bash
+   ```bash
    python main.py
    
