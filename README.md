@@ -17,7 +17,7 @@ This project is a basic AI assistant for booking dental appointments using Pytho
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/dental-appointment-assistant.git
+   git clone https://github.com/meet-hirpara/Dental-appointment-assistant.git
    cd dental-appointment-assistant
 
    1. create python env
