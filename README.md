@@ -20,6 +20,13 @@ This project is a basic AI assistant for booking dental appointments using Pytho
    git clone https://github.com/yourusername/dental-appointment-assistant.git
    cd dental-appointment-assistant
 
+   1. create python env
+   2. python -m venv env
+   3. env\Scripts\activate
+   4. pip install langchain
+      pip install langchain_google_genai
+      pip install langchain_core
+
 2. **run bot**
    ```bash
    python main.py
